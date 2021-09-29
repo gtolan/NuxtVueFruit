@@ -1,6 +1,6 @@
 # fruitssr
 
-BREAKING CHANGES - OLD WEBPACK version5 need node poylfils
+BREAKING CHANGES - OLD WEBPACK version5 need node polyfills
 > My grand Nuxt.js project
 
 ## Build Setup
